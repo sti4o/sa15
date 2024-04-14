@@ -28,9 +28,3 @@ header, footer {
     width: calc(50% - 20px);
     padding: 10px;
 }
-
-@media (max-width: 600px) {
-    .recipe-card {
-        width: calc(100% - 20px);
-    }
-}
